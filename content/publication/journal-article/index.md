@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "A greedy non-intrusive reduced order model for shallow water equations"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Sourav Dutta
+- Matthew Farthing
+- Emma Perracchione
+- Gaurav Savant
+- Mario Putti
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2021-08-15"
+doi: "10.1016/j.jcp.2021.110378"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +22,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Computational Physics*(JCP)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this work, we develop Non-Intrusive Reduced Order Models (NIROMs) that combine Proper Orthogonal Decomposition (POD) with a Radial Basis Function (RBF) interpolation method to construct efficient reduced order models for time-dependent problems arising in large scale environmental flow applications. The performance of the POD-RBF NIROM is compared with a traditional nonlinear POD (NPOD) model by evaluating the accuracy, robustness, and speed for test problems representative of riverine flows. Different greedy algorithms are studied in order to determine a near-optimal distribution of interpolation points for the RBF approximation. A new power-scaled residual greedy (psr-greedy) algorithm is proposed that overcomes the drawbacks of the existing greedy approaches to enhance the accuracy and efficiency of the RBF approximation. The relative performance of these greedy algorithms is studied with numerical experiments using realistic 2D shallow water flow applications involving coastal and riverine dynamics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- Greedy algorithms
+- Non-intrusive reduced order model
+- Proper orthogonal decomposition
+- Radial basis function interpolation
+- Shallow water equations
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://arxiv.org/abs/2002.11329
+url_code: 'https://github.com/erdc/podrbf_nirom'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -44,9 +51,9 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**JCP**](https://www.sciencedirect.com/science/article/pii/S0021999121002734?via%3Dihub)'
   focal_point: ""
   preview_only: false
 
@@ -62,7 +69,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
@@ -72,5 +79,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
