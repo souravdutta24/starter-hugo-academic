@@ -28,7 +28,7 @@ publication_short: ""
 abstract: In this work, we develop Non-Intrusive Reduced Order Models (NIROMs) that combine Proper Orthogonal Decomposition (POD) with a Radial Basis Function (RBF) interpolation method to construct efficient reduced order models for time-dependent problems arising in large scale environmental flow applications. The performance of the POD-RBF NIROM is compared with a traditional nonlinear POD (NPOD) model by evaluating the accuracy, robustness, and speed for test problems representative of riverine flows. Different greedy algorithms are studied in order to determine a near-optimal distribution of interpolation points for the RBF approximation. A new power-scaled residual greedy (psr-greedy) algorithm is proposed that overcomes the drawbacks of the existing greedy approaches to enhance the accuracy and efficiency of the RBF approximation. The relative performance of these greedy algorithms is studied with numerical experiments using realistic 2D shallow water flow applications involving coastal and riverine dynamics.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A novel reduced order model for time-dependent PDEs using proper orthogonal decomposition and radial basis function interpolation. A new greedy algorithm for optimal selection of interpolation points is also proposed. Real world examples are presented using 2D shallow water equations.
 
 tags:
 - Greedy algorithms
@@ -71,11 +71,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
