@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Model Order Reduction
-  - Computational Science & Engineering
+  - Computational Fluid Dynamics
   - Scientific Machine Learning
 
 # Education to show in About widget
@@ -32,12 +32,10 @@ education:
     - course: PhD in Mathematics
       institution: Texas A&M University
       year: 2017
-    - course: MSc in Mathematics & Computing
+    - course: BSc & MSc in Mathematics & Computing
       institution: Indian Institute of Technology Kharagpur
       year: 2010
-    - course: BSc in Mathematics & Computing
-      institution: Indian Institute of Technology Kharagpur
-      year: 2009
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,8 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Research Fellow in the Computational Hydraulics Group at the Oden Institute of the University of Texas at Austin, where I am working with Clint Dawson. Previously, I was a ORISE postdoctoral fellow at the Coastal & Hydraulics Laboratory of the U.S. Army Engineer Research and Development Center, where I worked with Matthew Farthing. Prior to that, I earned a Ph.D. in mathematics from Texas A&M University, supervised by Prabir Daripa.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests lie at the intersection of classical, physics-based computational methods and modern data-driven, machine learning-based techniques with applications to computational science and engineering.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
