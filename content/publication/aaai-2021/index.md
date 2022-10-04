@@ -13,8 +13,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-#date: '2013-07-01T00:00:00Z'
-doi: 'arXiv:2104.13962 [cs.LG]'
+date: '2021-04-22'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences*
-publication_short: In *AAAI 2021 Spring Symposium*
+publication_short: In *AAAI MLPS 2021*
 
 abstract: Model reduction for fluid flow simulation continues to be of great interest across a number of scientific and engineering fields. Here, we explore the use of Neural Ordinary Differential Equations, a recently introduced family of continuous-depth, differentiable networks (Chen et al. 2018), as a way to propagate latent-space dynamics in reduced order models. We compare their behavior with two classical non-intrusive methods based on proper orthogonal decomposition and radial basis function interpolation as well as dynamic mode decomposition. The test problems we consider include incompressible flow around a cylinder as well as real-world applications of shallow water hydrodynamics in riverine and estuarine systems. Our findings indicate that Neural ODEs provide an elegant framework for stable and accurate evolution of latent-space dynamics with a promising potential of extrapolatory predictions. However, in order to facilitate their widespread adoption for large-scale systems, significant effort needs to be directed at accelerating their training times. This will enable amore comprehensive exploration of the hyperparameter space for building generalizable Neural ODE approximations over a wide range of system dynamics.
 
@@ -56,9 +56,9 @@ url_video: 'https://youtu.be/U9F2zL-_Vk8m'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ''
-#  preview_only: false
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
