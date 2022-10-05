@@ -36,6 +36,6 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
-Full list of [*publications*](./publication/)
-{{% /callout %}}
+#{{% callout note %}}
+#Full list of [*publications*](./publication/)
+#{{% /callout %}}
