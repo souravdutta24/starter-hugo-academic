@@ -39,7 +39,7 @@ experience:
   - title: ORISE Postdoctoral Fellow
     company: U.S. Army Engineer Research & Development Center (ERDC)
     company_url: 'https://www.erdc.usace.army.mil/'
-    company_logo: ERDC-CHL
+    company_logo: ERDC
     location: Mississippi
     date_start: '2017-09-01'
     date_end: '2022-08-31'
@@ -49,7 +49,7 @@ experience:
         * Development of reduced order model (ROM) for shallow water flows
         * Data-driven ROMs for computational fluid dynamics problems
         * Machine learning (ML)-based ROM for advection-dominated flows
-        * Python-based, open source package for ROM development 
+        * Python-based, open source package for ROM development
 
 design:
   columns: '2'
