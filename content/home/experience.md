@@ -22,28 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Fellow
+    company: Oden Institue for Computational Engineering & Sciences
+    company_url: 'https://oden.utexas.edu/'
+    company_logo: Stacked-Fullcolor
+    location: Mississippi (Remote)
+    date_start: '2022-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Projects include:
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Development of compound flood simulation capabilities within Adaptive Hydraulics (AdH)
+        * Reduced order modeling for coastal engineering applications
+        * Development of physics-based operator learning framework for environmental flows
+
+  - title: ORISE Postdoctoral Fellow
+    company: U.S. Army Engineer Research & Development Center (ERDC)
+    company_url: 'https://www.erdc.usace.army.mil/'
+    company_logo: ERDC-CHL
+    location: Mississippi
+    date_start: '2017-09-01'
+    date_end: '2022-08-31'
+    description: |2-
+        Projects include:
+
+        * Development of reduced order model (ROM) for shallow water flows
+        * Data-driven ROMs for computational fluid dynamics problems
+        * Machine learning (ML)-based ROM for advection-dominated flows
+        * Python-based, open source package for ROM development 
 
 design:
   columns: '2'
