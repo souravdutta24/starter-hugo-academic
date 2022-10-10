@@ -32,13 +32,10 @@ featured: false
 
 image:
   caption: 'Image credit: [**ERDC**](https://youtu.be/1yK9qwkuuig)'
-  focal_point: Right
+  focal_point: Center
+  preview_only: True
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+
 url_code: ''
 url_pdf: ''
 url_slides: 'https://drive.google.com/file/d/1aE1EVQXPj2uh-ei7EuVP46CKFsTw2GSX/view?usp=sharing'
