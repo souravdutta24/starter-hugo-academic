@@ -25,6 +25,7 @@ interests:
   - Model Order Reduction
   - Computational Fluid Dynamics
   - Scientific Machine Learning
+  - Uncertainty Quantification
 
 # Education to show in About widget
 education:
@@ -77,6 +78,6 @@ highlight_name: true
 
 I am currently a Research Fellow in the Computational Hydraulics Group at the [Oden Institute for Computational Engineering & Sciences](https://oden.utexas.edu/) of the University of Texas at Austin, where I am working with [Clint Dawson](https://oden.utexas.edu/people/directory/clint-dawson/). Previously, I was a ORISE postdoctoral fellow at the [Coastal & Hydraulics Laboratory](https://www.erdc.usace.army.mil/Locations/CHL/) of the U.S. Army Engineer Research and Development Center, where I worked with [Matthew Farthing](https://www.erdc.usace.army.mil/About/Leadership/Bio-Article-View/Article/3151369/dr-matthew-farthing/). Prior to that, I earned a Ph.D. in mathematics from Texas A&M University, supervised by [Prabir Daripa](https://www.math.tamu.edu/~prabir.daripa/).
 
-My research interests lie at the intersection of classical, physics-based computational methods and modern data-driven, machine learning-based techniques with applications to computational science and engineering.
+My research interests lie at the intersection of classical, physics-based computational methods and modern data-driven, machine learning-based techniques with applications to computational science and engineering. I am particularly interested in exploring ways to develop efficient and robust numerical approximations of real-world, large scale environmental flow problems by combining physical principles with modern machine learning algorithms, either by infusing physics-based regularization in the learning trajectory or by modeling the underlying differential operator.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
