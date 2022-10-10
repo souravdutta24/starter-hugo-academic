@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: sourav.dutta@erdc.dren.mil
+  email: sourav.dutta@austin.utexas.edu
   phone: 601 634 3614
   address:
     street: US Army ERDC, CHL, 3909 Halls Ferry Rd
