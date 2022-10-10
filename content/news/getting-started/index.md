@@ -20,9 +20,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-active: false
-
-
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
