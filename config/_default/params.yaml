@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Research Fellow at UT Austin'
+    twitter: 'srvdutta'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'jAkUtM7nZle0-aEb-_pxLj2-zB-5yWR2FrvToVNO8mQ'
     baidu: ''
 
 # Site header
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://souravdutta24.github.io/'
     content_dir: content
     branch: main
   avatar:
