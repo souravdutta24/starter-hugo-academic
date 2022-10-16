@@ -38,7 +38,7 @@ design:
   columns: '2'
 ---
 
-**October 2022** I have started my new position as Research Fellow at the Oden Institute for Computational Engineering & Sciences of The University of Texas at Austin. I will be working with [Clint Dawson](https://oden.utexas.edu/people/directory/Clint%20Dawson/) and some of his collaborators from the esteemed [Computational Hydraulics Group](https://chg.oden.utexas.edu/). Looking forward to an exciting and productive time ahead.
+**October 2022:** I have started my new position as Research Fellow at the Oden Institute for Computational Engineering & Sciences of The University of Texas at Austin. I will be working with [Clint Dawson](https://oden.utexas.edu/people/directory/Clint%20Dawson/) and some of his collaborators from the esteemed [Computational Hydraulics Group](https://chg.oden.utexas.edu/). Looking forward to an exciting and productive time ahead.
 
 **September 2022:** Co-organizing a minisymposium on *Machine Learning and Data-Driven Methods for Forward and Inverse Problems* along with [Matthew Farthing](https://www.erdc.usace.army.mil/About/Leadership/Bio-Article-View/Article/3151369/dr-matthew-farthing/) and [Dhruv Patel](https://dhruvpatel108.github.io/) at the [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) meeting in San Diego, CA.
 
